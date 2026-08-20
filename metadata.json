@@ -1,0 +1,6 @@
+{
+  "name": "Sanda Fly Visuals - Drone & Mobile Gimbal Videography",
+  "description": "Official website of Sandanila Godakanda for Sanda Fly Visuals - 4K Drone cinematography, 3-axis phone gimbal videography, and viral social media reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
