@@ -1,8 +1,22 @@
-# Run and deploy your AI Studio app
+# Sanda Fly Visuals 🚁🎥
 
-This contains everything you need to run your app locally.
+A professional cinematic portfolio and booking web application built for 4K drone videography and smooth gimbal shots in Sri Lanka.
 
-View your app in AI Studio: https://ai.studio/apps/9f24fd56-ba9c-43b5-bede-9394426e168c
+## ✨ Features
+- **Cinematic Showcase & Gallery:** Interactive displays for high-end video captures.
+- **Real-time Pricing Calculator:** Custom quote generator for video shoots.
+- **Direct WhatsApp Booking:** Seamless client communication integration.
+- **Responsive Modern UI:** Tailored with a sleek dark aesthetic.
+
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Tools:** Vite
+
+## 🚀 Getting Started Locally
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/sandanila/Sanda-Fly-Visuals.git](https://github.com/sandanila/Sanda-Fly-Visuals.git)
 
 ## Run Locally
 
